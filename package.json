@@ -23,13 +23,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zemirco/lockit"
+    "url": "https://github.com/NBTSolutions/lockit"
   },
   "dependencies": {
     "chalk": "^1.1.0",
     "lockit-delete-account": "^1.0.5",
     "lockit-forgot-password": "^1.3.2",
-    "lockit-login": "git://github.com/NBTSolutions/lockit-login#cnx",
+    "lockit-login": "git://github.com/NBTSolutions/lockit-login.git#cnx",
     "lockit-signup": "git://github.com/NBTSolutions/lockit-signup.git",
     "lockit-sql-adapter": "git://github.com/NBTSolutions/lockit-sql-adapter.git#cnx",
     "lockit-utils": "^0.5.3",
