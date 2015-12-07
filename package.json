@@ -31,7 +31,7 @@
     "lockit-forgot-password": "^1.3.2",
     "lockit-login": "git://github.com/NBTSolutions/lockit-login.git#cnx",
     "lockit-signup": "git://github.com/NBTSolutions/lockit-signup.git",
-    "lockit-sql-adapter": "git://github.com/NBTSolutions/lockit-sql-adapter.git#cnx",
+    "lockit-sql-adapter": "git://github.com/NBTSolutions/lockit-sql-adapter.git#a2a5a6efabe22befaae54f5f43b7b0373efc2186",
     "lockit-utils": "^0.5.3",
     "node.extend": "^1.1.2",
     "sqlite3": "^3.0.0"
